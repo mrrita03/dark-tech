@@ -1,0 +1,114 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Teclado Mecânico",
+      "categoria": "Acessórios",
+      "preco": 349.9,
+      "descricao": "Teclado mecânico com iluminação RGB personalizável, switches responsivos e design compacto. Ideal para gamers que buscam precisão e estilo.",
+      "imagem": "https://images.unsplash.com/photo-1756694938599-62e7960df6b0?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 4000
+    },
+    {
+      "id": 2,
+      "nome": "Headset Gamer",
+      "categoria": "Áudio",
+      "preco": 259.9,
+      "descricao": "Headset com som surround 7.1, microfone com cancelamento de ruído e almofadas de espuma memory foam. Experiência de áudio imersiva para longas sessões.",
+      "imagem": "https://images.unsplash.com/photo-1629429407756-4a7703614972?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 1600
+    },
+    {
+      "id": 4,
+      "nome": "Mouse Gamer",
+      "categoria": "Acessórios",
+      "preco": 450,
+      "descricao": "Mouse gamer com sensor óptico de alta precisão, 7 botões programáveis e iluminação RGB. Ergonomia avançada para máximo desempenho.",
+      "imagem": "https://images.unsplash.com/photo-1628832307345-7404b47f1751?q=80&w=1183&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 590
+    },
+    {
+      "id": 10,
+      "nome": "Cadeira Gamer",
+      "categoria": "Móveis",
+      "preco": 1700,
+      "descricao": "Cadeira gamer ergonômica com apoio lombar ajustável, encosto reclinável e revestimento em couro sintético. Conforto máximo para longas horas de jogo.",
+      "imagem": "https://images.pexels.com/photos/7862645/pexels-photo-7862645.jpeg",
+      "estoque": 900
+    },
+    {
+      "id": 11,
+      "nome": "Setup Gamer",
+      "categoria": "Hardware",
+      "preco": 5000,
+      "descricao": "Setup completo com gabinete mid-tower, cooler líquido RGB e iluminação neon. Desempenho brutal para os jogos mais exigentes do mercado.",
+      "imagem": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7",
+      "estoque": 1000
+    },
+    {
+      "id": 12,
+      "nome": "Setup Completo",
+      "categoria": "Hardware",
+      "preco": 9000,
+      "descricao": "Setup premium com monitor 4K, teclado, mouse e headset combinando. Tudo que você precisa para dominar qualquer jogo com estilo.",
+      "imagem": "https://images.unsplash.com/photo-1696710257827-75e2e5954059?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 1000
+    },
+    {
+      "id": 13,
+      "nome": "Controle Xbox",
+      "categoria": "Acessórios",
+      "preco": 450,
+      "descricao": "Controle oficial Xbox com gatilhos de vibração, conexão sem fio e botões de resposta rápida. Compatível com Xbox e PC.",
+      "imagem": "https://images.unsplash.com/photo-1585620385456-4759f9b5c7d9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 300
+    },
+    {
+      "id": 14,
+      "nome": "PS5",
+      "categoria": "Hardware",
+      "preco": 5000,
+      "descricao": "PlayStation 5 com SSD ultrarrápido, ray tracing em tempo real e controle DualSense com feedback háptico. A próxima geração dos games chegou.",
+      "imagem": "https://images.unsplash.com/photo-1709587796970-4e6bae1d4c68?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "estoque": 500
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 5,
+      "nome": "Admin",
+      "email": "admin@darktech.com",
+      "senha": "2026"
+    },
+    {
+      "id": 6,
+      "nome": "maria",
+      "email": "maria@gmail.com",
+      "senha": "2222"
+    },
+    {
+      "id": 7,
+      "nome": "lucas",
+      "email": "lucas@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 8,
+      "nome": "ohana",
+      "email": "ohana@gmail.com",
+      "senha": "1015"
+    },
+    {
+      "id": 9,
+      "nome": "daniel",
+      "email": "daniel@hotmail.com",
+      "senha": "4444"
+    },
+    {
+      "id": 10,
+      "nome": "Arielle",
+      "email": "arielle@hotmail.com",
+      "senha": "5656"
+    }
+  ]
+}
