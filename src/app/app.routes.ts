@@ -8,6 +8,7 @@ import { CartComponent } from './components/cart/cart.component';
 import { ProductDetailComponent } from './pages/product-detail/product-detail.component';
 import { OrderConfirmComponent } from './pages/order-confirm/order-confirm.component';
 import { OrderSuccessComponent } from './pages/order-success/order-success.component';
+import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';
 
 export const routes: Routes = [
   { path: '', pathMatch: 'full', component: HomeComponent },
@@ -18,6 +19,7 @@ export const routes: Routes = [
   { path: 'cart', component: CartComponent },
   { path: 'product/:id', component: ProductDetailComponent },
   { path: 'order-confirm', component: OrderConfirmComponent },
-  { path: 'order-success', component: OrderSuccessComponent }
+  { path: 'order-success', component: OrderSuccessComponent },
+  { path: 'forgot-password', component: ForgotPasswordComponent }
 ];
 
